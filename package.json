@@ -1,0 +1,28 @@
+{
+  "name": "dadu_game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fuaditrockz/dadu_game.git"
+  },
+  "keywords": [
+    "game",
+    "javascript"
+  ],
+  "author": "Fuadit Muhammad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fuaditrockz/dadu_game/issues"
+  },
+  "homepage": "https://github.com/fuaditrockz/dadu_game#readme",
+  "dependencies": {
+    "cli-color": "^2.0.0",
+    "cli-table3": "^0.6.0"
+  }
+}
